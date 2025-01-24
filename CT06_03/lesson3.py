@@ -8,4 +8,4 @@ h_i=1
 h_i2=2
 print(h_i+h_i2)
 print(h_i*h_i2)
-print
+print(h_i/h_i2)

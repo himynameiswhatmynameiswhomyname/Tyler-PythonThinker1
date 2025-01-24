@@ -1,2 +1,2 @@
 print("Hello from lesson 3")
-adam
+adam(60)

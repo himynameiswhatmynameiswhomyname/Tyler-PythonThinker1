@@ -7,3 +7,4 @@ print(h_i/h_i2)
 print(h_i-h_i2)
 da_=6
 wa_=30
+30

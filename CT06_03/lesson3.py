@@ -8,4 +8,4 @@ print(h_i-h_i2)
 da_=6
 wa_=30
 print(30*48)
-print(30*4810)
+print(30*48*10)

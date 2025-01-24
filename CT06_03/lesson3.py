@@ -6,4 +6,4 @@ x=20
 print("x")
 h_i=1
 h_i2=2
-print
+print(h_i+h_i2)

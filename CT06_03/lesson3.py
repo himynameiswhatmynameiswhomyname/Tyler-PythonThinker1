@@ -5,3 +5,4 @@ print("Charlie:98")
 print("Daniel:79")
 print("60+58+98+79=295")
 my_varible:12345
+print

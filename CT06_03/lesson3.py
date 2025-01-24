@@ -4,4 +4,4 @@ print(age)
 x=10
 x=20
 print("x")
-h_i
+h_i=1

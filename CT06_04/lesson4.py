@@ -14,8 +14,8 @@ Green = 3
 # green plates.
 
 # Calculate and print the total amount you have spent: -->
-r_amount=Red*3
-b_amount=Blue*5
-g_amount=Green*4
-ans=r_amount + b_amount + g_amount
+r_amount = Red*3
+b_amount = Blue*5
+g_amount = Green*4
+ans = r_amount + b_amount + g_amount
 print(ans)

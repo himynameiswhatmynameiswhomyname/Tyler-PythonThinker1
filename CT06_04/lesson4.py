@@ -30,6 +30,7 @@ print(username)
 # Ask the user for their favorite colour using input() and
 # store the response in a variable. Print the variable.
 colour = input("enter your favourite colour: ")
+print(colour)
 # **Task 1c**:
 # Ask the user for their age using input() and store the answer
 # in a variable. Print the variable.

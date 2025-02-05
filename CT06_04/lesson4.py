@@ -29,7 +29,7 @@ print(username)
 # **Task 1b**:
 # Ask the user for their favorite colour using input() and
 # store the response in a variable. Print the variable.
-colour
+colour = input()
 # **Task 1c**:
 # Ask the user for their age using input() and store the answer
 # in a variable. Print the variable.

@@ -61,3 +61,24 @@ print ("I like "+hobby)
 # visit" and print the full sentence.
 vacation = input("enter your dream vacation: ")
 print ("I would like to visit " +vacation)
+
+# **Task 3a**:
+# 1. Ask the user for their current age using input(). Convert this
+# to an integer.
+# 2. Add 1 to their age and convert it back to a string.
+# 3. Then print a message saying "Next year, you will be [age+1]
+# years old."
+
+# **Task 3b**:
+# 1. Use input() to ask the user for a number. Convert this number
+# from a string to an integer.
+# 2. Double the number and convert it back to a string.
+# 3. Print "Double your number is [double the number]".
+
+# **Task 3c**:
+# 1. Use input() to ask the user for the year they were born and
+# convert it to an integer.
+# 2. Subtract the birth year from the current year (assume the
+# current year as an integer) to find their age.
+# 3. Convert the age back to a string and print "You are [age]
+# years old".

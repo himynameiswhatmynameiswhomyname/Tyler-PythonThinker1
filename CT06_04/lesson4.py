@@ -17,4 +17,5 @@
 r=Red*3
 b=Blue*5
 g=Green*4
+ans=r+b+g
 print(ans)

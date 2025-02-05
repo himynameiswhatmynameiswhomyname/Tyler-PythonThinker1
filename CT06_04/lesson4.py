@@ -46,7 +46,7 @@ print(age)
 # Concatenate the name with "Hi, [name]!" and print the
 # complete message.
 print = input("what is your name: ")
-print
+print ("")
 # **Task 2b**:
 # Use input() to ask the user for their favorite hobby. Store this
 # in a variable.

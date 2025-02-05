@@ -16,6 +16,6 @@
 # Calculate and print the total amount you have spent: -->
 r=red*3
 b=blue*5
-g=green
-ans=red+blue+green
+g=green*4
+ans=r+b+g
 print(ans)

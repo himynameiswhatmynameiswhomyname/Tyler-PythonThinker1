@@ -52,7 +52,7 @@ print ("Hi,"+name+"!")
 # in a variable.
 # Print a message saying "I enjoy [hobby]" using string
 # concatenation.
-hobby = input("")
+hobby = input("enter your favourite hobby: ")
 # **Task 2c**:
 # Ask the user for their dream vacation destination using input()
 # and store it in a variable.

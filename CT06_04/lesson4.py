@@ -35,3 +35,4 @@ print(colour)
 # Ask the user for their age using input() and store the answer
 # in a variable. Print the variable.
 age = input("enter your age: ")
+print(age)

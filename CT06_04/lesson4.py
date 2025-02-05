@@ -24,18 +24,18 @@
 # **Task 1a**:
 # Use the input() function to ask the user for their name and
 # store it in a variable. Then print that variable.
-username = input("enter your name: ")
-print(username)
+# username = input("enter your name: ")
+# print(username)
 # **Task 1b**:
 # Ask the user for their favorite colour using input() and
 # store the response in a variable. Print the variable.
-colour = input("enter your favourite colour: ")
-print(colour)
+# colour = input("enter your favourite colour: ")
+# print(colour)
 # **Task 1c**:
 # Ask the user for their age using input() and store the answer
 # in a variable. Print the variable.
-age = input("enter your age: ")
-print(age)
+# age = input("enter your age: ")
+# print(age)
 
 
 ## Task 2: Input & string concatenation
@@ -60,4 +60,4 @@ print ("I like "+hobby)
 # Concatenate this variable with a phrase like "I would love to
 # visit" and print the full sentence.
 vacation = input("enter your dream vacation: ")
-print ("I would like to visit" +vacation)
+print ("I would like to visit " +vacation)

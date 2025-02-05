@@ -16,4 +16,4 @@
 # Calculate and print the total amount you have spent: -->
 red=3*1=3
 blue=5*3=15
-green=
+green=4*4

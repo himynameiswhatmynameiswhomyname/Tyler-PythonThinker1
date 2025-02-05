@@ -6,9 +6,9 @@
 # calculate the total amount you have spent. Different coloured
 # plates costs different as shown below:
 
-# Red = $1
-# Blue = $2
-# Green = $3
+Red = 1
+Blue = 2
+Green = 3
 
 # You have ordered a total of 3 red plates, 5 blue plates, and 4
 # green plates.

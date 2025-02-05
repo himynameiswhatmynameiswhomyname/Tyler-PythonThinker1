@@ -17,5 +17,5 @@ Green = 3
 r_amount=Red*3
 b_amount=Blue*5
 g_amount=Green*4
-ans=r+b+g
+ans=r_amount + b_amount + g_amount
 print(ans)

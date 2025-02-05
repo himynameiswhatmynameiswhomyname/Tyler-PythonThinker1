@@ -84,4 +84,5 @@
 # years old".
 age = input("enter your age: ")
 print (age)
-age =
+age = age+1
+print 

@@ -82,3 +82,4 @@
 # current year as an integer) to find their age.
 # 3. Convert the age back to a string and print "You are [age]
 # years old".
+age = input()

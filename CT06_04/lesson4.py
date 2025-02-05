@@ -59,3 +59,4 @@ print ("I like "+hobby)
 # and store it in a variable.
 # Concatenate this variable with a phrase like "I would love to
 # visit" and print the full sentence.
+vacation

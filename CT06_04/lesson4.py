@@ -17,3 +17,4 @@
 red=3*1=3
 blue=5*3=15
 green=4*3=12
+ans=red

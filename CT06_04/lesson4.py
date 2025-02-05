@@ -41,7 +41,7 @@ print(age)
 ## Task 2: Input & string concatenation
 
 # **Task 2a**:
-# Ask the user for their name using input() and store it in a
+# Ask the user for their name using input() and store it in 
 # variable. 
 # Concatenate the name with "Hi, [name]!" and print the
 # complete message.

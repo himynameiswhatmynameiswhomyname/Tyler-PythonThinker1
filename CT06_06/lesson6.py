@@ -58,8 +58,8 @@
 
 # **Task 6a**:
 # Use a 'for' loop to print numbers from 2 to 24 in multiples of 2.
-for i in range(2,24):
-    print
+for i in range(2,24,2):
+    print(i)
 # **Task 6b**:
 # Use a 'for' loop to print numbers from 8 to 96 in multiples of 8.
 

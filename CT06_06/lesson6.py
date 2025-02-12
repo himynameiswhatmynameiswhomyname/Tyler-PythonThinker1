@@ -39,7 +39,8 @@
 # Note:
 #     Notice how "Give me a..." is repeated!
 #     Which function should you be using\
-name = input
+name = input("what is your name")
+
        
        
        

@@ -19,4 +19,5 @@
 Name=input("tell me your name:  ")
 print("hello " + Name)
 age=input("what age are you turning this year:  ")
-print("you are turning " +af)
+print("you are turning " +age)
+input

@@ -15,6 +15,4 @@
 # message.
 
 # ### Sample output:
-# "Happy <Age>th birthday <Name>! <Message>"
-
-input
+# "Happy <Age>th birth

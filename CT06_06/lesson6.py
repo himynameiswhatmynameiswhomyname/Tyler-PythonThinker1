@@ -15,4 +15,4 @@
 # message.
 
 # ### Sample output:
-# "Happy <Age>th birth
+# "Happy <Age>th birthday

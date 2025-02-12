@@ -54,5 +54,5 @@
 # 'for' loop
 
 for x in range(100):
-    print()
+    print(x)
        

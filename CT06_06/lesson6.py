@@ -17,9 +17,9 @@
 # ### Sample output:
 # "Happy <Age>th birthday
 Name=input("tell me your name:  ")
-print("hello " + Name)
+print(Name)
 age=input("what age are you turning this year:  ")
-print("you are turning " +age)
+print(age)
 message=input("what do you want me to send:  ")
 print("I wanted to send you this, " + message)
 print("my name is ")

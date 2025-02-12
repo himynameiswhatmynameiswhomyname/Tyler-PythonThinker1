@@ -79,7 +79,7 @@
 # Write a 'for' loop to count from **start** to **stop**
 start=int(input("what number do you want to start?"))
 stop=int(input("what number do you want to stop"))
-step=1
+step=int()
 if start > stop:-1
     # do this 
 else:1

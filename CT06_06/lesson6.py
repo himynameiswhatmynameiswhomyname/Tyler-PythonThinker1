@@ -77,9 +77,9 @@
 # 2. stop
 
 # Write a 'for' loop to count from **start** to **stop**
-start=input("what number do you want to start?")
-stop=input("what number do you want to stop")
-for i in range(start,stop):
+start=int(input("what number do you want to start?"))
+stop=int(input("what number do you want to stop"))
+for i in range(start-1,stop):
     print(i)
 
 # Note:

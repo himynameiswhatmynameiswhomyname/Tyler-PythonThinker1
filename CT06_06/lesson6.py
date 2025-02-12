@@ -16,4 +16,4 @@
 
 # ### Sample output:
 # "Happy <Age>th birthday
-Name=input("tell me your name")
+Name=input("tell me your name:  ")

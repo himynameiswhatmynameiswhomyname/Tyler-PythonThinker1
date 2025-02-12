@@ -85,7 +85,7 @@ if start > stop:step=-1
 else:1
     # do this instead 
     
-for i in range(start,stop+1,step):
+for i in range(start,stop-1,step):
     print(i)
 
 # Note:

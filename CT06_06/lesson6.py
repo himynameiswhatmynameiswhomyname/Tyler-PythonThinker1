@@ -67,4 +67,4 @@ for i in range(8,96,8):
 # **Task 6c**:
 # Use a 'for' loop to print numbers from 5 to 1 in descending order.
 for i in range(5,1):
- print(i)
+    print(i)

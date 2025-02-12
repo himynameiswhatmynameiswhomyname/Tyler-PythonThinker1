@@ -15,10 +15,4 @@
 # message.
 
 # ### Sample output:
-# "Happy <Age>th birthday
-Name=input("tell me your name:  ")
-print(Name)
-age=input("what age are you turning this year:  ")
-print(age)
-message=input("what do you want me to send:  ")
-print(message)
+# "Happy <Age>th birthda

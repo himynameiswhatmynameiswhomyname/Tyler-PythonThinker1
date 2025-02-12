@@ -16,3 +16,4 @@
 
 # ### Sample output:
 # "Happy <Age>th birthday
+Name=input

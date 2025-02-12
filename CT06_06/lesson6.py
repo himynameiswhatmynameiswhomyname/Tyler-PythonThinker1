@@ -39,7 +39,7 @@
 # Note:
 #     Notice how "Give me a..." is repeated!
 #     Which function should you be using\
-name = input("what is your name")
+name = input("what is your name ")
 for x in name:
    print("Give me a "+x )
 

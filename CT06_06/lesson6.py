@@ -79,7 +79,7 @@
 # Write a 'for' loop to count from **start** to **stop**
 start=input("what number do you want to start?")
 stop=input("what number do you want to stop")
-for i in range(start),(stop):
+for i in rangestart,stop:
     print(i)
 
 # Note:

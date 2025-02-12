@@ -80,7 +80,7 @@
 start=int(input("what number do you want to start?"))
 stop=int(input("what number do you want to stop"))
 step=int(1)
-if start > stop:-1
+if start > stop:step=-1
     # do this 
 else:1
     # do this instead 

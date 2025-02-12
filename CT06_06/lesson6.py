@@ -77,7 +77,8 @@
 # 2. stop
 
 # Write a 'for' loop to count from **start** to **stop**
-start=input 
+start=input("what number do you want to start?")
+
 # Note:
 # What happens if the user inputs a higher start number than stop?
 # Modify your code to be able to handle that scenario.

@@ -42,9 +42,9 @@
 name = input("what is your name ")
 for x in name:
    print("Give me a "+x +"!" )
-   
-   print("What do we have?")
-   print(name +"is the best!")
+
+print("What do we have?")
+print(name +"is the best!")
 
        
        

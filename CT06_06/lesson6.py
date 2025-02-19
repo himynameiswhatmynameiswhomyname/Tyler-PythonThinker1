@@ -10,12 +10,4 @@
 # each student one at a time.
 
 # Use only variables, math operators that you have learnt, as
-# well as a 'for' loop
-
-import webbrowser
-
-# Open Roblox website in the default web browser
-webbrowser.open('https://www.roblox.com')
-
-numofstudent = int(input("how many students are there "))
-sum = 0
+# well as a 'for' loopnumofstudent = int(input("how many students are there "))sum = 0for i in range(1,numofstudents+1):

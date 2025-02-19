@@ -21,22 +21,38 @@
 # Fix the errors in the following:
 
 # **Task 1a**:
-for i in range(3):
-    print("Hello, World!")
+# for i in range(3):
+    # print("Hello, World!")
 
 # **Task 1b**:
-for i in range(5):
-    print(i)
+# for i in range(5):
+    # print(i)
 
 # **Task 1c**:
-print("Hello, World!")
+# print("Hello, World!")
 
 # **Task 1d**:
-if - 5:
-
+# hi - 5
 
 # **Task 1e**:
- print("Hello, World!")
+#  print("Hello, World!")
+
+ ## Task 2: Name Errors
+# Fix the errors in the following:
+
+# **Task 2a**:
+print(age)
+
+# **Task 2b**:
+name = "Alice"
+print(nam)
+
+# **Task 2c**:
+print(x)
+x = 5
+
+# **Task 2d**:
+pint("Hello, World!")
 
 
 

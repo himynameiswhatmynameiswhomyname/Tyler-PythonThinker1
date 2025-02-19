@@ -37,25 +37,51 @@
 # **Task 1e**:
 #  print("Hello, World!")
 
- ## Task 2: Name Errors
+#  ## Task 2: Name Errors
+# # Fix the errors in the following:
+
+# # **Task 2a**:
+# age = 1
+# print(age)
+
+# # **Task 2b**:
+# name = "Alice"
+# print(name)
+
+# # **Task 2c**:
+# x = 5
+# print(x)
+
+
+# # **Task 2d**:
+# print("Hello, World!")
+
+
+## Task 3: Type Errors
 # Fix the errors in the following:
 
-# **Task 2a**:
-age = 1
-print(age)
+# **Task 3a**:
+age = "25"
+print(age + 1)
 
-# **Task 2b**:
-name = "Alice"
-print(name)
+# **Task 3b**:
+number = 10
+print(number - "5")
 
-# **Task 2c**:
-x = 5
-print(x)
+# **Task 3c**:
+print("Repeat" * "3")
 
+# **Task 3d**:
+year = 2023
+print("The year is " + year)
 
-# **Task 2d**:
-print("Hello, World!")
+# **Task 3e**:
+x = "10"
+y = x / 2
 
-
+# **Task 3f**:
+end = "5"
+for i in range(end):
+    print(i)
 
 

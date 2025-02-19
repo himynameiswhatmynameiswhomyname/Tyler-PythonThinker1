@@ -72,7 +72,7 @@ print(number - 5)
 print("Repeat" * 3)
 
 # **Task 3d**:
-Year = input
+Year = 2023
 print("The year is "+ Year)
 
 # **Task 3e**:

@@ -14,4 +14,3 @@ numStudents = int(input("how many students are there "))
 sum = 0
 for i in range(1,numStudents+1):
     sum=sum+int(input("what is student #" + "'s score"))
-    

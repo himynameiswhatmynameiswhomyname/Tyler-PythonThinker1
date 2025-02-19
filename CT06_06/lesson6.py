@@ -12,18 +12,3 @@
 # Use only variables, math operators that you have learnt, as
 # well as a 'for' loop
 
-total_students = int(input("Enter the total number of students: "))
-
-# Initialize a variable to store the sum of marks
-total_marks = 0
-
-# Loop to input the marks for each student
-for i in range(total_students):
-    marks = float(input(f"Enter marks for student {i + 1}: "))
-    total_marks += marks  # Add the marks to the total sum
-
-# Calculate the average marks
-average_marks = total_marks / total_students
-
-# Display the average
-print(f"The average marks of the {total_students} students is: {average_marks:.2f}")

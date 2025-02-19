@@ -48,7 +48,7 @@ name = "Alice"
 print(name)
 
 # **Task 2c**:
-x=
+x = 5
 print(x)
 
 

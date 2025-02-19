@@ -9,4 +9,5 @@
 # user for the total number of students, followed by the marks of
 # each student one at a time.
 
-# Use only variables, math operators that you have learnt, as# well as a 'for' loopnumofstudent = int(input("how many students are there "))sum = 0for i in range(1,numofstudents+1):
+# Use only variables, math operators that you have learnt, as# well as a 'for' loop
+# numofstudent = int(input("how many students are there "))sum = 0for i in range(1,numofstudents+1):

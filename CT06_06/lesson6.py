@@ -18,3 +18,4 @@ import webbrowser
 webbrowser.open('https://www.roblox.com')
 
 numofstudent = int(input("how many students are there "))
+sum = 0

@@ -41,7 +41,7 @@
 # Fix the errors in the following:
 
 # **Task 2a**:
-print(age)
+print("age")
 
 # **Task 2b**:
 name = "Alice"

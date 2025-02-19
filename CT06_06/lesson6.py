@@ -41,7 +41,7 @@
 # Fix the errors in the following:
 
 # **Task 2a**:
-age = 
+age = 1
 print(age)
 
 # **Task 2b**:

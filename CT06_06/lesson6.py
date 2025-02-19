@@ -17,4 +17,4 @@ import webbrowser
 # Open Roblox website in the default web browser
 webbrowser.open('https://www.roblox.com')
 
-numofstudent = int()
+numofstudent = int(input())

@@ -12,3 +12,7 @@
 # Use only variables, math operators that you have learnt, as
 # well as a 'for' loop
 
+import webbrowser
+
+# Open Roblox website in the default web browser
+webbrowser.open('https://www.roblox.com')

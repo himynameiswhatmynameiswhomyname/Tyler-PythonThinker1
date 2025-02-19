@@ -10,7 +10,7 @@
 # each student one at a time.
 
 # Use only variables, math operators that you have learnt, as# well as a 'for' loop
-numofstudents = int(input("how many students are there "))
+numStudents = int(input("how many students are there "))
 sum = 0
-for i in range(1,numofstudents+1):
-    
+for i in range(1,numStudents+1):
+    sum=sum

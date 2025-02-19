@@ -73,7 +73,7 @@ print("Repeat" * 3)
 
 # **Task 3d**:
 Year = 2023
-print("The year is " + Year)
+print("The year is "+Year)
 
 # **Task 3e**:
 x = 10
